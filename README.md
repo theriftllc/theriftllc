@@ -20,7 +20,7 @@ I created a custom servicenow app to track my progress for a 100 mile cycling ch
 
 ❤️  [Fundraiser for the American Heart Association](https://www.justgiving.com/fundraising/ALAN1717175602872)
 
-https://github.com/theriftllc/100milechallenge
+⚙️ https://github.com/theriftllc/100milechallenge
 
 
 ### 📺 Other Active Projects
