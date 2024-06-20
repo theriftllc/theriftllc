@@ -10,7 +10,7 @@ My most enriching project yet was the ServiceNow app I've built to track my prog
 
 ### 📺 Featured Project
 
-I created a custom servicenow app to track my progress for a 100 mile cycling challenge [![Fundraiser for the American Heart Association](https://ytcards.demolab.com/?id=1234567890&title=Fundraiser+for+the+American+Heart+Association&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876)](https://www.justgiving.com/fundraising/ALAN1717175602872)
+I created a custom servicenow app to track my progress for a 100 mile cycling challenge.❤️  [Fundraiser for the American Heart Association](https://www.justgiving.com/fundraising/ALAN1717175602872)
 
 
 ### 📺 Other Active Projects
