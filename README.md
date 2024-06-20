@@ -6,6 +6,12 @@ I'm a Solution Architect and ServiceNow Specialist, creating impactful solutions
 
 My most enriching project yet was the ServiceNow app I've built to track my progress as I cycle 100 miles in june to raise funds for the ❤️ American Heart Association. My dad and my wifes father both had this illness, so this project was close to my ❤️.
 
+## Quotes ##
+
+* Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+* Don't count the days, make the days count.
+* Technology is best when it brings people together.
+* 
 ---
 
 ### 📺 Featured Project
