@@ -2,9 +2,9 @@
 
 **`ServiceNow Solution Architect`**
 
-I'm a Solution Architect and ServiceNow Specialist, creating impactful solutions that solve real-world problems. I've built a variety of robust applications from the ground up, from planning and designing to implementation and deployment.
+I'm a Solution Architect and ServiceNow Specialist, creating impactful solutions. I've built a variety of  applications from the ground up that solve real-world problems, from planning and designing to implementation and deployment.
 
-My most enriching project yet was the ServiceNow app I've built to track my progress as I cycled 100 miles to raise funds for the ❤️ American Heart Association.
+My most enriching project yet was the ServiceNow app I've built to track my progress as I cycled 100 miles to raise funds for the ❤️ American Heart Association. My dad and my wifes father both had this illness, so this project was close to my ❤️.
 
 ---
 
