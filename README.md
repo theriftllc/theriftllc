@@ -1,4 +1,4 @@
-# 🏄‍♂️ Alan Bernard
+# 🚴 Alan Bernard
 
 **`ServiceNow Solution Architect`**
 
