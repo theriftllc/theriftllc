@@ -11,7 +11,7 @@ My most enriching project yet was the ServiceNow app I've built to track my prog
 * Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
 * Don't count the days, make the days count.
 * Technology is best when it brings people together.
-* 
+  
 ---
 
 ### 📺 Featured Project
