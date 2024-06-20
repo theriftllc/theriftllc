@@ -17,7 +17,7 @@ https://github.com/theriftllc/100milechallenge
 
 ### 📺 Other Active Projects
 **Volunteer**
-Web Admin for The Network BICP National Website (https://www.thenetworkbicp.org)
+Employee Resource group Web Admin for The Network BICP National Website (https://www.thenetworkbicp.org)
 
 **Volunteer**
-Web Admin and VP of Technology for The NETwork Metro Atlanta (https://www.thenetworkmetroatlanta.org)
+Employee Resource group Web Admin and VP of Technology for The NETwork Metro Atlanta (https://www.thenetworkmetroatlanta.org)
