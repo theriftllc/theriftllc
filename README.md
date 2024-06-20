@@ -26,6 +26,7 @@ I created a custom servicenow app to track my progress for a 100 mile cycling ch
 ### 📺 Other Active Projects
 **Volunteer**
 Employee Resource group Web Admin for The Network BICP National Website 
+
 (https://www.thenetworkbicp.org)
 
 **Volunteer**
